@@ -62,5 +62,5 @@ Every transformation has its own peculiarities and it focuses on different parts
 Below, it was reported a selected number of metrics that were observed in training the models. The metrics were the basis for the final model choice. The reported values are the macro averages of the metrics per label.
 
 <p align="center">
-  <img width="350" src="images/table.png">
+  <img width="350" src="images/table.PNG">
 </p>
